@@ -1,0 +1,40 @@
+/* HEADER*/
+#header-nav{
+	border-radius: 0;
+	border:2px black;
+	color: black;
+	background-color: pink;
+}
+.navbar-header{
+	text-align: left;
+	padding-left: 30px;
+
+}
+.navbar-brand{
+	color: black;
+	font-weight: bold;
+	font-size: xx-large;
+}
+
+h1{
+	font-size: x-large;
+}
+h2{
+	text-align: center;
+}
+.container{
+	width: 100%;
+	padding-top: 30px;
+}
+section{
+	background-color: grey;
+	height: 1000px;
+	width: 80%;
+}
+li{
+color: black;
+text-align: center;
+border: 2px solid black;
+margin-bottom: 1px;
+background-color: lightblue;
+}
